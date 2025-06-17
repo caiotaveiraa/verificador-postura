@@ -31,7 +31,7 @@ Este projeto utiliza **Visão Computacional** e **Inteligência Artificial** par
 
 ```bash
 git clone https://github.com/caiotaveiraa/verificador-postura.git
-cd postura-mediapipe
+cd verificador-postura
 ```
 
 2. Instale as dependências:

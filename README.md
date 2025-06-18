@@ -32,6 +32,7 @@ Este projeto utiliza **Visão Computacional** e **Inteligência Artificial** par
 ```bash
 git clone https://github.com/caiotaveiraa/verificador-postura.git
 cd verificador-postura
+cd Postura
 ```
 
 2. Instale as dependências:

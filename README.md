@@ -64,15 +64,15 @@ Este projeto utiliza o **MediaPipe Pose**, um modelo baseado em **Machine Learni
 ## 📸 Imagens da Aplicação
 
 ### ✅ Postura Correta
-![Postura OK](imagens/postura_ok.png)
+![Postura OK](Imagens/postura-certa.png)
 
 ### ❌ Postura Incorreta
-![Postura Ruim](imagens/postura_ruim.png)
+![Postura Ruim](Imagens/postura-errada.png)
 
 ---
 
 ## 🎥 Vídeo Demonstrativo
-![Demo](imagens/jokenpo.gif)
+![Demo](Imagens/testes.gif)
 
 ---
 
